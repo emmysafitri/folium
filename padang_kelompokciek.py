@@ -77,4 +77,4 @@ folium.Marker(
     popup='Pasar Gaung
 Teluk Bayur, South Padang, Padang City, West Sumatra', 
     icon=folium.Icon(icon='info-sign')
-).add_to(m)
+).add_to
