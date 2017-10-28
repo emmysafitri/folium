@@ -74,3 +74,17 @@ folium.Marker(
 Pauh, Kota Padang, Sumatera Barat',
     icon=folium.Icon(icon='info-sign')
 ).add_to(m)
+
+folium.Marker(
+    location=[-0.8970898,100.3664311],
+    popup='Pasar Nanggalo
+Surau Gadang, Nanggalo, Kota Padang, Sumatera Barat',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+
+folium.Marker(
+    location=[-0.9920046,100.3807497],
+    popup='Pasar Gaung
+Teluk Bayur, South Padang, Padang City, West Sumatra', 
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
