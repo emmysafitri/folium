@@ -99,3 +99,10 @@ folium.Marker(
    Junjung Sirih, Solok, Sumatera Barat',
     icon=folium.Icon(icon='info-sign')
 ).add_to(m)
+
+folium.Marker(
+    location=[-0.9238512,100.3481302],
+    popup='Hotel Pangeran Beach
+    Flamboyan Baru, Padang Bar., Kota Padang, Sumatera Barat',
+     icon=folium.Icon(icon='info-sign')
+).add_to(m)
