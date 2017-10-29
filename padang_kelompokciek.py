@@ -94,7 +94,7 @@ folium.Marker(
 ).add_to(m)
 
 folium.Marker(
-    location=[-0.7724924,100.6402682],
+    location=[-0.680632, 100.528263],
     popup='Puncak Gagoan, Muara Pingai
    Junjung Sirih, Solok, Sumatera Barat',
     icon=folium.Icon(icon='info-sign')
