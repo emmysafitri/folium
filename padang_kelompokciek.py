@@ -78,3 +78,10 @@ folium.Marker(
 Teluk Bayur, South Padang, Padang City, West Sumatra', 
     icon=folium.Icon(icon='info-sign')
 ).add_to(m)
+
+folium.Marker(
+    location=[-0.7724924,100.6402682],
+    popup='Solok,
+    Kota Padang, Sumatera Barat',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
