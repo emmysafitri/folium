@@ -92,3 +92,10 @@ folium.Marker(
     X Koto Singkarak, Solok, Sumatera Barat',
     icon=folium.Icon(icon='info-sign')
 ).add_to(m)
+
+folium.Marker(
+    location=[-0.7724924,100.6402682],
+    popup='Puncak Gagoan, Muara Pingai
+   Junjung Sirih, Solok, Sumatera Barat',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
