@@ -101,8 +101,88 @@ folium.Marker(
 ).add_to(m)
 
 folium.Marker(
+    location=[-0.3077541,100.366038],
+    popup=' Bukit Cangang Kayu Ramang, Guguk Panjang
+    Kota Bukittinggi, Sumatera Barat',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+
+folium.Marker(
+    location=[0.0674728,99.8576986],
+    popuup='Singgalang, Sepuluh Koto 
+    Tanah Datar Regency, Sumatra Barat',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+
+folium.Marker(
+    location=[-1.0161398,100.3882725],
+    popup='Pantai Nirwana
+    Painan, Kota Padang, Sumatera Barat',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+
+folium.Marker(
+    location=[-0.8216501,100.301673]
+    popup='Pantai Pasir Jambak
+    Pasie Nan Tigo, Koto Tangah, Kota Padang, Sumatera Barat', 
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+
+folium.Marker(
+    location=[-0.4476289,100.3200912]
+    popup='Lembah Anai Waterpark
+    Sepuluh Koto, Tanah Datar Regency, Sumatera Barat',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+
+ folium.Marker(
+    location=[-1.0346837,100.4098799]
+    popup='Pantai Carolina Bungus
+    Bungus Selatan, Bungus Teluk Kabung, Kota Padang, Sumatera Barat',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+
+ folium.Marker(
+    location=[-0.7207852,100.1980705]
+    popup=' Pantai Tiram Tapakis
+    Ulakan Tapakis, Kabupaten Padang Pariaman, Sumatera Barat',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+    
+ folium.Marker(
+    location=[0.4939387,100.3284896]
+    popup=' Bukit Tinggi, Km. 60, Guguak
+    Kabupaten Padang Pariaman, Sumatera Barat',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+    
+ folium.Marker(
     location=[-0.9238512,100.3481302],
     popup='Hotel Pangeran Beach
     Flamboyan Baru, Padang Bar., Kota Padang, Sumatera Barat',
-     icon=folium.Icon(icon='info-sign')
+    icon=folium.Icon(icon='info-sign')
 ).add_to(m)
+
+ folium.Marker(
+    location=[-1.0362369,100.4049043]
+    popup='Pantai Sako
+    Bungus Teluk Kabung, Padang City, West Sumatra',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+    
+folium.Marker(
+    location=[-0.7877358,100.3209004]
+    popup=' Kolam Renang ABG
+    Koto Tangah, Padang City, West Sumatra',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+
+folium.Marker(
+    location=[-0.971364,100.4117682]
+    popup='Bukit Nobita
+    Lubuk Begalung, Padang City, West Sumatra 
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+
+
+
