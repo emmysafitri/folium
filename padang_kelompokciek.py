@@ -206,6 +206,56 @@ folium.Marker(
 ).add_to(m)
 
     folium.Marker(
+    location=[-0.9599137,100.3521664]
+    popoup='Plan B Hotel
+    Belakang Tangsi, Padang Bar., Kota Padang, Sumatera Barat',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+    
+    
+folium.Marker(
+    location=[-0.948539,100.3574359]
+    popup='Garuda Hotel
+    Padang Bar., Kota Padang, Sumatera Barat',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+
+folium.Marker(
+    location=[-0.9553679,100.3564167]
+    popup='Kyriad Bumiminang Hotel
+    Padang Bar., Kota Padang, Sumatera Barat',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+
+folium.Marker(
+    location=[-0.962527,100.3557373]
+    popup='Brigittes Houses
+    Berok Nipah, Padang Bar., Kota Padang, Sumatera Barat',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)          
+
+folium.Marker(
+    location=[-0.9648052,100.3556087]
+    popup='Riverside Hostel Padang
+    Berok Nipah, Padang Bar., Kota Padang, Sumatera Barat',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+
+folium.Marker(
+    location=[-0.951905,100.3515143]
+    popup='Sofyan Inn Rangkayo Basa
+    Belakang Tangsi, Padang Bar., Kota Padang, Sumatera Barat',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+
+folium.Marker(
+    location=[-0.9396261,100.3515466]
+    popup='Mervit Hotel
+    Padang Barat, Purus, Padang, Kota Padang, Sumatera Barat',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+              
+    folium.Marker(
     location=[-0.961824,100.3550005]
     popoup='Ox Ville
     Padang Bar., Kota Padang, Sumatera Barat',
