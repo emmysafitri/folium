@@ -178,9 +178,44 @@ folium.Marker(
 ).add_to(m)
 
 folium.Marker(
+    location=[-0.9586107,100.3531443]
+    popup='HW Hotel Padang
+    Belakang Tangsi, Padang Bar., Kota Padang, Sumatera Barat',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+ 
+    folium.Marker(
+    location=[-0.954441,100.3570043] 
+    popup='The Axana Hotel
+    Padang Bar., Kota Padang, Sumatera Barat',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+
+    folium.Marker(
+    location=[-0.9467978,100.3573532]
+    popup='Rocky Plaza Hotel Padang
+    Padang Bar., Kota Padang, Sumatera Barat',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+
+    folium.Marker(
+    location=[-0.9579988,100.3528789]
+    popup='SAVALI Boutique Hotel
+    Belakang Tangsi, Padang Bar., Kota Padang, Sumatera Barat',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+
+    folium.Marker(
+    location=[-0.961824,100.3550005]
+    popoup='Ox Ville
+    Padang Bar., Kota Padang, Sumatera Barat',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+
+folium.Marker(
     location=[-0.971364,100.4117682]
     popup='Bukit Nobita
-    Lubuk Begalung, Padang City, West Sumatra 
+    Lubuk Begalung, Padang City, West Sumatra', 
     icon=folium.Icon(icon='info-sign')
 ).add_to(m)
 
